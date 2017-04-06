@@ -1,0 +1,174 @@
+*{
+    margin: 0px;
+   	padding: 0px;
+}
+body{
+	background-color: #DEDEDE;
+	font-family: ;
+}
+#navigation{
+	background-color: #333333;
+	height: 60px;
+}
+#navigation img{
+	margin: 0px 0px 0px 20px;
+	float: left;
+}
+#headUl{
+	margin-top:23px; 
+	display: inline-block;
+	line-height: 14px;
+	float: right;
+}
+#headUl li{
+	float: left;
+	margin-right: 20px;
+	font-size: 12px;
+}
+#headUl a{
+	text-decoration: none;
+	color: white;
+}
+#headUl .fourthA{
+	color: gray;
+}
+.oneArticle{
+	background-color: white;
+	border-top: solid #CDCDCD 1px;
+	border-left: solid #CDCDCD 1px;
+	border-bottom: solid #848484 2px;
+	border-right: solid #848484 2px;
+	margin: 20px;
+	padding: 35px 20px;
+} 
+h2,h4,h5{
+	margin-bottom: 12px;
+}
+h4,h5{
+	color: gray;
+}
+p{
+	text-indent: 34px; 
+	font-size: 15px;
+	line-height: 24px;
+}
+img{
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+#anotherArticle ul{
+	list-style: none;
+	margin-left: 20px;
+	font-size: 15px;
+	line-height: 24px;
+}
+.wrap{
+	border: solid #CDCDCD 1px;
+	width: 125px;
+	height: 125px;
+	margin-bottom: 15px;
+}
+.littleText{
+	font-size: 12px;
+	margin: 8px 32px;
+}
+.wrap img{
+	width: 100px;
+	height: 80px;
+	margin: 0px 12px 6px 12px;
+}
+#lastArticle ol{
+	margin-left: 45px;
+	font-size: 15px;
+	line-height: 24px;
+	margin-bottom: 12px;
+}
+table{
+	border-collapse:collapse;
+	border: solid #CDCDCD 1px;
+	width: 1260px;
+	height: 150px;
+	font-size: 13px;
+	line-height: 25px;
+}
+tr,th,td{
+	border: solid #CDCDCD 1px;
+}
+th,td{
+	padding-left: 5px;
+}
+thead{
+	background-color: #333333;
+	color: white;
+	text-align: left;
+}
+.lastTr{
+	background-color: #CCCCCC;
+}
+.sideBarTitle{
+	border-left: solid #CCCCCC 3px;
+	height: 40px;
+	font-size: 16px;
+	font-family: 黑体;
+	font-weight: bold;
+	line-height: 40px;
+	padding-left: 8px;
+}
+form{
+	font-size: 13px;
+	line-height: 26px;
+}
+.rows{
+	margin-bottom: 6px;
+}
+label{
+	display: inline-block;
+	width: 100px;
+	text-align: right;
+	vertical-align: top;
+	margin-right: 6px;
+}
+.box1{
+	margin-left: 265px;
+}
+.box2{
+	padding-left: 2px;
+	height: 20px;
+	width: 130px;
+	line-height: 20px;
+	font-size: 12px;
+}
+form .zhushi{
+	font-size: 13px;
+	line-height: 20px;
+	color: gray;
+	margin-left: 110px;
+	margin-bottom: 14px;
+}
+textarea{
+	width: 800px;
+	height: 100px;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 2px;
+}
+#submit{
+	width: 1260px;
+	height: 40px;
+	border: solid #3355D0 1px;
+	border-radius: 8px;
+	background-color: #3355D0;
+	color: white;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: bold;
+}
+footer{
+	background-color: black;
+	height: 40px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 24px;
+}
